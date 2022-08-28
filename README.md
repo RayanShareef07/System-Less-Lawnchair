@@ -1,6 +1,5 @@
+![System Less Lawnchair](https://github.com/RayanShareef07/System-Less-Lawnchair/blob/main/System%20Less%20Lawnchair.png)
 # ▌Lawnchair Launcher Extra 
-# ▌Magisk Module 
-# ▌Android 12L
 
 # ▌Requirements
 - ▌Android 12L
