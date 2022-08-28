@@ -1,7 +1,7 @@
 id=Systemless_LawnchairExtra
 name=Systemless Lawnchair Extra
 version=Version 8.3
-versionCode=83
+versionCode=84
 author=TeamFiles
 description=Systemlessly Install Lawnchair
 updateJson=https://raw.githubusercontent.com/RayanShareef07/System-Less-Lawnchair/main/module.json
