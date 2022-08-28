@@ -1,6 +1,8 @@
-# Lawnchair Launcher Extra ▰ Magisk Module ▰ Android 12L
+# ▌Lawnchair Launcher Extra 
+# ▌Magisk Module 
+# ▌Android 12L
 
-# Requirements
+# ▌Requirements
 - ▌Android 12L
 - ▌Magisk Must Be Installed
 
@@ -9,13 +11,13 @@
 - ▌Lawnicons By TeamFiles(Extra Themed Icons). Turn on Themed Icons in launcher's settings to get Themed Icons.
 - ▌No Need To install Quickswitch for animations. It includes QuickSwitch Overlay.
 
-# Instructions
+# ▌Instructions
 - ▌Remove any other launcher if you're using & keep only default launcher
 - ▌Remove QuickSwitch Module if you're using it
 - ▌Download & Flash the zip in magisk
 - ▌Reboot Device
 
-# Credits
+# ▌Credits
 - ▌The Lawnchair Team
 - ▌Magisk Module & Permissions Wrote By @saitama_96
 - ▌Magisk Script Contribution By @iamlooper
