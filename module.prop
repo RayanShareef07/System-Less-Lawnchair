@@ -4,4 +4,4 @@ version=Version 8.3
 versionCode=83
 author=TeamFiles
 description=Systemlessly Install Lawnchair
-updateJson=
+updateJson=https://raw.githubusercontent.com/RayanShareef07/System-Less-Lawnchair/main/module.json
